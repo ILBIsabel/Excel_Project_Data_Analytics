@@ -5,7 +5,7 @@ This Excel-based data job salary dashboard was built to help job seekers explore
 Huge shoutout to Luke Barousse for the data, which can be found here in his [Excel Course](https://lukebarousse.com/excel). Thank you for providing such a great learning resource!
 
 ## Salary Dashboard  
-[Excel Work](Salary_Dashboard)
+[Excel Work](https://github.com/ILBIsabel/Excel_Project_Data_Analytics/blob/main/4_Spreadsheets_Advanced/Salary_Dashboard.xlsx) 
 
 ![Screenshot 2025-06-20 011802](https://github.com/user-attachments/assets/4c2f30ab-bcdf-4bc8-a9ec-2dcc2df12fdb)
 
