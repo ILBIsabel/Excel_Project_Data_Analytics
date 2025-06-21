@@ -33,7 +33,7 @@ Throughout the included Excel files, you’ll find the full thought process, fro
 
 Here are a few examples below, but you can explore everything in detail directly in the files.
 
-[Excel Work](5_M_Language (FINAL BOSS))
+[Excel Work](https://github.com/ILBIsabel/Excel_Project_Data_Analytics/blob/main/7_Power_Query/5_M_Language%20(FINAL%20BOSS).xlsx)
 
 ![Project Analysis Chart](https://github.com/user-attachments/assets/f375a908-e7a3-41b3-a8c1-5dd35072ad84)
 
