@@ -37,23 +37,23 @@ Here are a few examples below, but you can explore everything in detail directly
 
 ![Project Analysis Chart](https://github.com/user-attachments/assets/f375a908-e7a3-41b3-a8c1-5dd35072ad84)
 
-[Excel Work](5_M_Language (FINAL BOSS))
+[Excel Work](https://github.com/ILBIsabel/Excel_Project_Data_Analytics/blob/main/7_Power_Query/5_M_Language%20(FINAL%20BOSS).xlsx)
 
 ![Project Analysis Chart](https://github.com/user-attachments/assets/1003951a-e345-420d-b7f2-07db8c6580c4)
 
-[Excel Work](5_M_Language (FINAL BOSS))
+[Excel Work](https://github.com/ILBIsabel/Excel_Project_Data_Analytics/blob/main/7_Power_Query/5_M_Language%20(FINAL%20BOSS).xlsx)
 
 ![Project Analysis Chart](https://github.com/user-attachments/assets/87ad32f0-5550-4b6b-aa7a-50fd364f1d5d)
 
-[Excel Work](5_M_Language (FINALBOSS))
+[Excel Work](https://github.com/ILBIsabel/Excel_Project_Data_Analytics/blob/main/7_Power_Query/5_M_Language%20(FINAL%20BOSS).xlsx)
 
 ![Project Analysis Chart](https://github.com/user-attachments/assets/2379c65c-2005-4a57-8069-1c99eddec5fd)
 
-[Excel Work](5_M_Language (FINAL BOSS))
+[Excel Work](https://github.com/ILBIsabel/Excel_Project_Data_Analytics/blob/main/7_Power_Query/5_M_Language%20(FINAL%20BOSS).xlsx)
 
 ![Project Analysis Chart](https://github.com/user-attachments/assets/c9a74590-b05f-4b88-8611-54c0eba8b6f7)
 
-[Excel Work](5_M_Language (FINAL BOSS))
+[Excel Work](https://github.com/ILBIsabel/Excel_Project_Data_Analytics/blob/main/7_Power_Query/5_M_Language%20(FINAL%20BOSS).xlsx)
 
 ![Project Analysis Chart](https://github.com/user-attachments/assets/b219acca-4e57-4ed5-a9a8-e54d429fda49)
 
